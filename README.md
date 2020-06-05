@@ -2,4 +2,4 @@
 
 coming soon...
 
-![](style/tag3.svg)
+<img src="style/tag3.svg" width = 50%>
