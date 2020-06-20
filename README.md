@@ -2,4 +2,4 @@
 
 coming soon...
 
-<img src="style/tag3.svg" width = 50%>
+<img src="images/logo3.svg" width = 50%>
